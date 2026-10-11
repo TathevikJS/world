@@ -1,7 +1,10 @@
-import Home from './home'
+import Home from './home/Home'
 
 export default function Page() {
-  return (
-    <Home />
+  const title = "TUMO"
+  const num = 34
+
+   return (
+    <Home title={title} num={num}/>
   );
 }

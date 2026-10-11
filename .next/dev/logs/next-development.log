@@ -1,0 +1,256 @@
+{"timestamp":"00:00:00.336","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:09.888","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"00:00:10.301","source":"Browser","level":"ERROR","message":"Uncaught Error: ./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)"}
+{"timestamp":"00:00:10.302","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: ./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\n\\n\\nhttps://nextjs.org/docs/messages/module-not-found\\n\\n\\u001b[39m\\n\\u001b[31m    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\\u001b[39m\""}
+{"timestamp":"00:00:10.335","source":"Browser","level":"ERROR","message":"./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"00:00:10.335","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"00:00:10.382","source":"Browser","level":"ERROR","message":"./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"00:00:10.382","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"00:00:11.365","source":"Browser","level":"ERROR","message":"./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"00:00:11.365","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"00:00:13.488","source":"Server","level":"ERROR","message":"⨯ ./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"00:00:13.554","source":"Browser","level":"ERROR","message":"Uncaught Error: ./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)"}
+{"timestamp":"00:00:13.554","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: ./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\n\\n\\nhttps://nextjs.org/docs/messages/module-not-found\\n\\n\\u001b[39m\\n\\u001b[31m    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\\n    at <unknown> (https://nextjs.org/docs/messages/module-not-found)\\u001b[39m\""}
+{"timestamp":"00:00:13.568","source":"Browser","level":"ERROR","message":"./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"00:00:13.568","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"00:00:13.600","source":"Browser","level":"ERROR","message":"./src/app/page.jsx:1:1\nError: Module not found: Can't resolve './home'\n> 1 | import Home from './home'\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Page() {\n  4 |   const title = \"TUMO\"\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"00:00:13.600","source":"Server","level":"ERROR","message":"[browser] \"./src/app/page.jsx:1:1\\nError: Module not found: Can't resolve './home'\\n> 1 | import Home from './home'\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Page() {\\n  4 |   const title = \\\"TUMO\\\"\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"00:00:25.347","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"00:00:25.460","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:00:25.575","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:28.413","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:00:28.471","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:26.804","source":"Server","level":"LOG","message":"✓ Compiled in 14ms"}
+{"timestamp":"00:02:26.835","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:02:29.875","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:02:29.892","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:03:22.394","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:03:22.426","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:03:44.772","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:03:44.803","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:07:30.775","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:07:30.797","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:07:36.471","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:07:36.494","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:07:36.678","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:27:58.733","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
+{"timestamp":"00:27:58.764","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:28:01.319","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:28:01.341","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:29:21.737","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
+{"timestamp":"00:29:21.751","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:29:24.990","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
+{"timestamp":"00:29:25.007","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:30:31.030","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:30:31.047","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:31:47.611","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:31:47.626","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:33:02.228","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:33:02.248","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:34:57.528","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:34:57.554","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:34:57.561","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:35:06.528","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:35:06.546","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:35:06.551","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:35:06.730","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:35:30.028","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:35:30.050","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:35:30.056","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:35:30.240","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:36:19.085","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:36:19.105","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:36:19.110","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:36:19.242","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:36:23.313","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:36:23.331","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:36:23.336","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:36:23.573","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:00.526","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:37:00.542","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:00.546","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:00.683","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:16.449","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:37:16.467","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:16.472","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:16.610","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:18.590","source":"Server","level":"LOG","message":"✓ Compiled in 1ms"}
+{"timestamp":"00:37:18.604","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:18.606","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:18.731","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:26.023","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"00:37:26.047","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:26.051","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:26.157","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:27.624","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:37:27.638","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:27.641","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:27.786","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:39.029","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: useState is not defined\n    at Button (src/app/home/components/button/Button.jsx:3:35)\n    at Page (src/app/page.jsx:8:5)\n  \u001b[90m1 |\u001b[0m \u001b[36mexport\u001b[0m \u001b[36mconst\u001b[0m \u001b[33mButton\u001b[0m = () => {\n  \u001b[90m2 |\u001b[0m     \n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m3 |\u001b[0m     \u001b[36mconst\u001b[0m [clicked, setClicked] = useState(\u001b[36mfalse\u001b[0m)\n  \u001b[90m  |\u001b[0m                                   \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m4 |\u001b[0m     \u001b[36mconst\u001b[0m handleClick = () => {\n  \u001b[90m5 |\u001b[0m         setClicked(\u001b[36mtrue\u001b[0m)\n  \u001b[90m6 |\u001b[0m         console.log(clicked);"}
+{"timestamp":"00:37:39.030","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: useState is not defined\\u001b[39m\\n\\u001b[31m    at Button (src/app/home/components/button/Button.jsx:3:35)\\n    at Page (src/app/page.jsx:8:5)\\u001b[39m\\n  \\u001b[90m1 |\\u001b[0m \\u001b[36mexport\\u001b[0m \\u001b[36mconst\\u001b[0m \\u001b[33mButton\\u001b[0m = () => {\\n  \\u001b[90m2 |\\u001b[0m     \\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m3 |\\u001b[0m     \\u001b[36mconst\\u001b[0m [clicked, setClicked] = useState(\\u001b[36mfalse\\u001b[0m)\\n  \\u001b[90m  |\\u001b[0m                                   \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m4 |\\u001b[0m     \\u001b[36mconst\\u001b[0m handleClick = () => {\\n  \\u001b[90m5 |\\u001b[0m         setClicked(\\u001b[36mtrue\\u001b[0m)\\n  \\u001b[90m6 |\\u001b[0m         console.log(clicked);\""}
+{"timestamp":"00:37:41.069","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:37:41.073","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:37:41.198","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:37:41.228","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: useState is not defined\n    at Button (src/app/home/components/button/Button.jsx:3:35)\n    at Page (src/app/page.jsx:8:5)\n  \u001b[90m1 |\u001b[0m \u001b[36mexport\u001b[0m \u001b[36mconst\u001b[0m \u001b[33mButton\u001b[0m = () => {\n  \u001b[90m2 |\u001b[0m     \n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m3 |\u001b[0m     \u001b[36mconst\u001b[0m [clicked, setClicked] = useState(\u001b[36mfalse\u001b[0m)\n  \u001b[90m  |\u001b[0m                                   \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m4 |\u001b[0m     \u001b[36mconst\u001b[0m handleClick = () => {\n  \u001b[90m5 |\u001b[0m         setClicked(\u001b[36mtrue\u001b[0m)\n  \u001b[90m6 |\u001b[0m         console.log(clicked);"}
+{"timestamp":"00:37:41.229","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: useState is not defined\\u001b[39m\\n\\u001b[31m    at Button (src/app/home/components/button/Button.jsx:3:35)\\n    at Page (src/app/page.jsx:8:5)\\u001b[39m\\n  \\u001b[90m1 |\\u001b[0m \\u001b[36mexport\\u001b[0m \\u001b[36mconst\\u001b[0m \\u001b[33mButton\\u001b[0m = () => {\\n  \\u001b[90m2 |\\u001b[0m     \\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m3 |\\u001b[0m     \\u001b[36mconst\\u001b[0m [clicked, setClicked] = useState(\\u001b[36mfalse\\u001b[0m)\\n  \\u001b[90m  |\\u001b[0m                                   \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m4 |\\u001b[0m     \\u001b[36mconst\\u001b[0m handleClick = () => {\\n  \\u001b[90m5 |\\u001b[0m         setClicked(\\u001b[36mtrue\\u001b[0m)\\n  \\u001b[90m6 |\\u001b[0m         console.log(clicked);\""}
+{"timestamp":"00:38:23.462","source":"Server","level":"LOG","message":"✓ Compiled in 39ms"}
+{"timestamp":"00:38:23.481","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:38:23.492","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:38:23.607","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:38:51.794","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: useState is not defined\n    at Button (src/app/home/components/button/Button.jsx:5:35)\n    at Home (src/app/home/Home.jsx:11:13)\n    at Page (src/app/page.jsx:8:5)\n  \u001b[90m3 |\u001b[0m \u001b[36mexport\u001b[0m \u001b[36mconst\u001b[0m \u001b[33mButton\u001b[0m = () => {\n  \u001b[90m4 |\u001b[0m     \n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m5 |\u001b[0m     \u001b[36mconst\u001b[0m [clicked, setClicked] = useState(\u001b[36mfalse\u001b[0m)\n  \u001b[90m  |\u001b[0m                                   \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m6 |\u001b[0m     \u001b[36mconst\u001b[0m handleClick = () => {\n  \u001b[90m7 |\u001b[0m         setClicked(\u001b[36mtrue\u001b[0m)\n  \u001b[90m8 |\u001b[0m         console.log(clicked);"}
+{"timestamp":"00:38:51.795","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: useState is not defined\\u001b[39m\\n\\u001b[31m    at Button (src/app/home/components/button/Button.jsx:5:35)\\n    at Home (src/app/home/Home.jsx:11:13)\\n    at Page (src/app/page.jsx:8:5)\\u001b[39m\\n  \\u001b[90m3 |\\u001b[0m \\u001b[36mexport\\u001b[0m \\u001b[36mconst\\u001b[0m \\u001b[33mButton\\u001b[0m = () => {\\n  \\u001b[90m4 |\\u001b[0m     \\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m5 |\\u001b[0m     \\u001b[36mconst\\u001b[0m [clicked, setClicked] = useState(\\u001b[36mfalse\\u001b[0m)\\n  \\u001b[90m  |\\u001b[0m                                   \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m6 |\\u001b[0m     \\u001b[36mconst\\u001b[0m handleClick = () => {\\n  \\u001b[90m7 |\\u001b[0m         setClicked(\\u001b[36mtrue\\u001b[0m)\\n  \\u001b[90m8 |\\u001b[0m         console.log(clicked);\""}
+{"timestamp":"00:38:53.496","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:38:53.508","source":"Server","level":"ERROR","message":"⨯ ReferenceError: useState is not defined"}
+{"timestamp":"00:38:53.608","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:38:53.667","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: useState is not defined\n    at Button (src/app/home/components/button/Button.jsx:5:35)\n    at Home (src/app/home/Home.jsx:11:13)\n    at Page (src/app/page.jsx:8:5)\n  \u001b[90m3 |\u001b[0m \u001b[36mexport\u001b[0m \u001b[36mconst\u001b[0m \u001b[33mButton\u001b[0m = () => {\n  \u001b[90m4 |\u001b[0m     \n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m5 |\u001b[0m     \u001b[36mconst\u001b[0m [clicked, setClicked] = useState(\u001b[36mfalse\u001b[0m)\n  \u001b[90m  |\u001b[0m                                   \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m6 |\u001b[0m     \u001b[36mconst\u001b[0m handleClick = () => {\n  \u001b[90m7 |\u001b[0m         setClicked(\u001b[36mtrue\u001b[0m)\n  \u001b[90m8 |\u001b[0m         console.log(clicked);"}
+{"timestamp":"00:38:53.667","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: useState is not defined\\u001b[39m\\n\\u001b[31m    at Button (src/app/home/components/button/Button.jsx:5:35)\\n    at Home (src/app/home/Home.jsx:11:13)\\n    at Page (src/app/page.jsx:8:5)\\u001b[39m\\n  \\u001b[90m3 |\\u001b[0m \\u001b[36mexport\\u001b[0m \\u001b[36mconst\\u001b[0m \\u001b[33mButton\\u001b[0m = () => {\\n  \\u001b[90m4 |\\u001b[0m     \\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m5 |\\u001b[0m     \\u001b[36mconst\\u001b[0m [clicked, setClicked] = useState(\\u001b[36mfalse\\u001b[0m)\\n  \\u001b[90m  |\\u001b[0m                                   \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m6 |\\u001b[0m     \\u001b[36mconst\\u001b[0m handleClick = () => {\\n  \\u001b[90m7 |\\u001b[0m         setClicked(\\u001b[36mtrue\\u001b[0m)\\n  \\u001b[90m8 |\\u001b[0m         console.log(clicked);\""}
+{"timestamp":"00:39:23.358","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:39:23.369","source":"Server","level":"LOG","message":"false"}
+{"timestamp":"00:39:23.369","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.370","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.370","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.370","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.370","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.370","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.371","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.371","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.371","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.371","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.372","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.373","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.374","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.374","source":"Server","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.554","source":"Server","level":"ERROR","message":"⨯ Error: Too many re-renders. React limits the number of renders to prevent an infinite loop."}
+{"timestamp":"00:39:23.705","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.797","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.798","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:39:23.807","source":"Browser","level":"ERROR","message":"Uncaught Error: Too many re-renders. React limits the number of renders to prevent an infinite loop.\n    at Home (src/app/home/Home.jsx:11:13)\n    at Page (src/app/page.jsx:8:5)\n  \u001b[90m 9 |\u001b[0m             <h1>{props.title}</h1>\n  \u001b[90m10 |\u001b[0m             <p>wecome home</p>\n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m11 |\u001b[0m             <\u001b[33mButton\u001b[0m />\n  \u001b[90m   |\u001b[0m             \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m12 |\u001b[0m         </div>\n  \u001b[90m13 |\u001b[0m     )\n  \u001b[90m14 |\u001b[0m }"}
+{"timestamp":"00:39:23.808","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Too many re-renders. React limits the number of renders to prevent an infinite loop.\\u001b[39m\\n\\u001b[31m    at Home (src/app/home/Home.jsx:11:13)\\n    at Page (src/app/page.jsx:8:5)\\u001b[39m\\n  \\u001b[90m 9 |\\u001b[0m             <h1>{props.title}</h1>\\n  \\u001b[90m10 |\\u001b[0m             <p>wecome home</p>\\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m11 |\\u001b[0m             <\\u001b[33mButton\\u001b[0m />\\n  \\u001b[90m   |\\u001b[0m             \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m12 |\\u001b[0m         </div>\\n  \\u001b[90m13 |\\u001b[0m     )\\n  \\u001b[90m14 |\\u001b[0m }\""}
+{"timestamp":"00:41:00.371","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:41:00.527","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:41:08.292","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:41:08.434","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:08.578","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:08.721","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:08.889","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.033","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.177","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.344","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.530","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.698","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:09.881","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:41:10.033","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:47:49.602","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"00:47:49.624","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:48:03.610","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:48:03.625","source":"Server","level":"LOG","message":"{}"}
+{"timestamp":"00:50:02.922","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"00:50:17.942","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:50:20.378","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:50:30.947","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:51:09.514","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:51:14.022","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:14.600","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:14.745","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:14.880","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:15.056","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:15.336","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:15.631","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:15.808","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:16.008","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:16.240","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:16.415","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:51.496","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:51:55.066","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:51:55.248","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:55.426","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:55.577","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:55.734","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:55.880","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:56.016","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:56.162","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:56.312","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:56.473","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:56.616","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:56.761","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:56.928","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:57.096","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:57.264","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:57.432","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:57.585","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:57.763","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:57.930","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:58.088","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:58.256","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:58.416","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:58.627","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:58.784","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:58.977","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:59.257","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:59.457","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:59.617","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:51:59.760","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:51:59.929","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:52:00.081","source":"Browser","level":"LOG","message":"false"}
+{"timestamp":"00:52:00.257","source":"Browser","level":"LOG","message":"true"}
+{"timestamp":"00:52:00.410","source":"Browser","level":"LOG","message":"false"}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/user/Desktop/world/src/app/home/Home.jsx"],"sourcesContent":["import './home.css'\n\nconst Home = (props) => {\n    console.log(props);\n\n    return (\n        <div className='home'>\n            <h1>{props.title}</h1>\n            <p>wecome home</p>\n            \n        </div>\n    )\n}\n\nexport default Home"],"names":["Home","props","console","log","className","title"],"mappings":";;;;;;;AAEA,MAAMA,OAAO,CAACC;IACVC,QAAQC,GAAG,CAACF;IAEZ,qBACI,8OAAC;QAAIG,WAAU;;0BACX,8OAAC;0BAAIH,MAAMI,KAAK;;;;;;0BAChB,8OAAC;0BAAE;;;;;;;;;;;;AAIf;uCAEeL"}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":["file:///Users/user/Desktop/world/src/app/page.jsx"],"sourcesContent":["import Home from './home/Home'\n\nexport default function Page() {\n  const title = \"TUMO\"\n  const num = 34\n\n   return (\n    <Home title={title} num={num}/>\n  );\n}"],"names":["Page","title","num"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,MAAMC,QAAQ;IACd,MAAMC,MAAM;IAEX,qBACC,8OAAC,sIAAI;QAACD,OAAOA;QAAOC,KAAKA;;;;;;AAE7B"}}]
+}

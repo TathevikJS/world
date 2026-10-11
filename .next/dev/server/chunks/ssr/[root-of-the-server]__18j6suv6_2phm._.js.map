@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/user/Desktop/world/src/app/page.jsx"],"sourcesContent":["import Home from './home'\n\nexport default function Page() {\n  const title = \"TUMO\"\n\n   return (\n    <Home title={title} />\n  );\n}"],"names":["Page","title","Home"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IACtB,MAAMC,QAAQ;IAEb,qBACC,8OAACC;QAAKD,OAAOA;;;;;;AAEjB"}}]
+}

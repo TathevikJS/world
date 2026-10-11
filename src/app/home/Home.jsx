@@ -1,10 +1,14 @@
 import './home.css'
+import {Button} from './components/button/Button'
 
-const Home = () => {
+const Home = (props) => {
+    console.log(props);
+
     return (
         <div className='home'>
-            <h1>TUMO</h1>
+            <h1>{props.title}</h1>
             <p>wecome home</p>
+            <Button />
         </div>
     )
 }
